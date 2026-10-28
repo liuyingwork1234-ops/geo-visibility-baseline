@@ -73,6 +73,16 @@
 
 先用侦察技能决定「改什么」，再用本技能验证「改了有没有用」。
 
+## 相关链接
+
+- **官网**：[oceangtm.com](https://oceangtm.com/) —— 外贸独立站 GEO 服务商
+- **Skill 下载页**：[oceangtm.com/skill.html](https://oceangtm.com/skill.html) —— 免登录直接下载 zip
+- **使用说明**：[USAGE.md](./USAGE.md) —— 安装、触发、付费接口配置与成本估算
+- **配套 Skill**：[geo-visibility-baseline](https://github.com/liuyingwork1234-ops/geo-visibility-baseline)
+- **方法来源**：[为什么问 AI 推荐永远没有我们公司](https://oceangtm.com/blog/how-to-do-geo-content-fast-2026.html)
+
+> 本文提到的数据来自 2026 年 10 月的真实测试，方法与脚本均已在官网公开。
+
 ## License
 
 MIT
